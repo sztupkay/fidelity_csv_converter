@@ -8,7 +8,8 @@ This tool takes CSV files exported from Fidelity and converts them into OFX form
 
 ## Installation
 
-Create a folder and download the script:
+1. Open **Terminal** (on Mac: press `Cmd + Space`, type "Terminal", press Enter)
+2. Create a folder and download the script:
 
 ```bash
 mkdir fidelity_csv_converter
