@@ -6,6 +6,16 @@ Convert Fidelity investment account transaction exports to OFX format for use in
 
 This tool takes CSV files exported from Fidelity and converts them into OFX format, making it easy to import your investment transactions into other financial software.
 
+## Installation
+
+Create a folder and download the script:
+
+```bash
+mkdir fidelity_csv_converter
+cd fidelity_csv_converter
+curl -o fidelity_csv_converter.py https://raw.githubusercontent.com/sztupkay/fidelity_csv_converter/refs/heads/main/fidelity_csv_converter.py
+```
+
 ## Prerequisites
 
 You need Python 3.9 or later installed on your computer. To check if you have Python:
