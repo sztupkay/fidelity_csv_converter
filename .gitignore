@@ -1,0 +1,7 @@
+fidelity_csv_converter-env/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+_.pytest_cache/
